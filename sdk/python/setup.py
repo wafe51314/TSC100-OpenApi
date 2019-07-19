@@ -4,7 +4,7 @@ import os
 
 from setuptools import setup, find_packages
 
-description = "Python SDK for Bhex REST And Websocket API (https://www.bhex.com)"
+description = "Python SDK for Bhex REST And Websocket API (https://www.tsc100.vip)"
 
 here = os.path.abspath(os.path.dirname(__file__))
 
@@ -18,7 +18,7 @@ setup(
     name="bhex",
     version="1.1",
     author="Bhex",
-    author_email="pip@bhex.com",
+    author_email="pip@tsc100.vip",
     description=description,
     long_description=read('README.md'),
     long_description_content_type="text/markdown",
