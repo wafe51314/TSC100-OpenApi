@@ -2,12 +2,12 @@
 
 ## Base Domain
 
-bhex.com
+TSC100.vip
 
 ## API Endpoint ($HOST)
 
 | Name               | base endpoint                                    |
 | ------------------ | ------------------------------------------------ |
-| rest-api           | **[https://api.bhex.com](https://api.bhex.com)** |
-| web-socket-streams | **[wss://wsapi.bhex.com](wss://wsapi.bhex.com)** |
-| user-data-stream   | **[wss://wsapi.bhex.com](wss://wsapi.bhex.com)** |
+| rest-api           | **[https://api.TSC100.vip](https://api.TSC100.vip)** |
+| web-socket-streams | **[wss://wsapi.TSC100.vip](wss://wsapi.TSC100.vip)** |
+| user-data-stream   | **[wss://wsapi.TSC100.vip](wss://wsapi.TSC100.vip)** |
